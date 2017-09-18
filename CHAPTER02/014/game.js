@@ -117,7 +117,7 @@ window.onload = function() {
     core.rootScene.addChild(infoLabel);
 
 
-  }
+  };
   // ゲームスタート
   core.start();
 }
