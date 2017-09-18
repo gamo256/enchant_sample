@@ -1,9 +1,10 @@
 .project
+.metadata
 .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs
 .metadata/version.ini
 .metadata/.plugins/com.aptana.core.io/connections.1
 .metadata/.plugins/com.aptana.syncing.core/defaultConnection.1
-.metadata/.plugins/com.aptana.syncing.core/sites.1
+.metadatas/.plugins/com.aptana.syncing.core/sites.1
 .metadata/.plugins/org.eclipse.core.resources/.root/1.tree
 .metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version
 .metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version
